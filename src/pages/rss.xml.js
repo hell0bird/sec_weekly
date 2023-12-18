@@ -14,10 +14,10 @@ posts.splice(10);
 
 export const get = () =>
   rss({
-    title: '潮流周刊',
-    description: '记录 Tw93 潮流前端的日常生活',
+    title: '网络安全笔记',
+    description: '人过留名，雁过留声。人不留名不知道张王李赵，雁不留声不知道春夏秋冬。',
     site: 'https://weekly.tsec.fun/',
-    customData: `<image><url>https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png</url></image>`,
+    customData: `<image><url>![](https://tsec-weekly.oss-cn-beijing.aliyuncs.com/weekly/logo.png)</url></image>`,
     items: posts.map((item) => {
       const url = item.url;
       const oldTitle = url.split('/posts/')[1];

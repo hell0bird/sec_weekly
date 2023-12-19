@@ -7,6 +7,7 @@ export const SITE = {
   pic: 'https://cdn.fliggy.com/upic/2XFNGI.png',
   homePage: 'https://weekly.tsec.fun',
   blogPage: 'https://blog.tsec.fun/',
+  Tg: 'https://t.me/tsecrecord',
   // twitterId: '',
   githubId: 'hell0bird',
   repo: 'hell0bird/sec_weekly'

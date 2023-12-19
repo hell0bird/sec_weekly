@@ -11,13 +11,6 @@ const imageSrc = content.twitterImg || SITE.pic;
 const description = content.description ? content.description : SITE.description;
 ---
 
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content={imageSrc} />
-<meta name="twitter:site" content={homePage} />
-<meta property="twitter:url" content={pageURL} />
-<meta name="twitter:creator" content={`@${twitterId}`} />
-<meta property="twitter:description" content={description} />
-
 <meta name="keywords" content={keywords}/>
 <meta name="author" content={author} />
 <meta name="description" content={description}>

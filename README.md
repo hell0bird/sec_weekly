@@ -1,3 +1,3 @@
-# ÍøÂç°²È«±Ê¼Ç
+# [ç½‘ç»œå®‰å…¨ç¬”è®°](https://weekly.tsec.fun)
 
-> ¸ø¿İÔïµÄÉú»îÌí¼ÓµãÀÖÈ¤£¬»¶Ó­¶©ÔÄ£¬Ò²»¶Ó­ [ÍÆ¼ö](https://github.com/hell0bird/sec_weekly/discussions/1) ÄãµÄºÃ¶«Î÷¡£
+> ç»™æ¯ç‡¥çš„ç”Ÿæ´»æ·»åŠ ç‚¹ä¹è¶£ï¼Œæ¬¢è¿è®¢é˜…ï¼Œä¹Ÿæ¬¢è¿ [æ¨è](https://github.com/hell0bird/sec_weekly/discussions/1) ä½ çš„å¥½ä¸œè¥¿ã€‚
